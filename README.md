@@ -1,4 +1,4 @@
-# Article Let's Solve Problems Efficiently, shall-we?
+# Let's Solve Problems Efficiently, shall-we?
 
 **Author:** David Aslanyan  
 **Reading time:** ~4 min  
