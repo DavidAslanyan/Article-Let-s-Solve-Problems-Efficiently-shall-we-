@@ -9,7 +9,6 @@ To stand out in coding interviews or competitive programming, it’s crucial to 
 
 In this article, I’ll walk through some of the simplest yet useful techniques you can apply across strings, arrays, and number problems.  
 Each section comes with a short description, code snippet, and where it’s commonly used.
-  
 
 ## 1) Two Pointers
 
