@@ -1,6 +1,6 @@
 # Let's Solve Problems Efficiently, shall-we?
 
-**Author:** David Aslanyan     
+**Author:** David Aslanyan
 **Reading time:** ~4 min  
 
 
