@@ -1,7 +1,7 @@
 # Let's Solve Problems Efficiently, shall-we?
 
 **Author:** David Aslanyan
-**Reading time:** ~4 min  
+**Reading time:** ~4 min    
 
 
 When solving algorithmic problems, brute force solutions may work, but they’re rarely efficient.  
