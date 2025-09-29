@@ -11,7 +11,7 @@ In this article, I’ll walk through some of the simplest yet useful techniques 
 Each section comes with a short description, code snippet, and where it’s commonly used.
 
 ## 1) Two Pointers
-
+  
 **Description:**  
 The **two-pointer technique** uses one pointer at the start and another at the end of an array (or string).  
 You move them towards each other while performing some checks or logic.  
